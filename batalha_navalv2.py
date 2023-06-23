@@ -1,7 +1,3 @@
-#Random module for randomly accepting the values
-# ‘X’ indicates the ships hit
-# ‘-‘ indicates the hits missed
-from random import randint
 import socket
 
 global tabuleiroA
